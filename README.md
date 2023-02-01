@@ -1,2 +1,2 @@
 # HTML-CSS-Proje
-![](HTML_CSS Proje.gif)
+![](https://share.getcloudapp.com/Koun67lG)
