@@ -1,2 +1,2 @@
 # HTML-CSS-Proje
-![](HTML-CSS Proje.gif)
+![](HTML_CSS Proje.gif)
